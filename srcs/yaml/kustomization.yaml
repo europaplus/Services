@@ -1,0 +1,8 @@
+resources:
+  - mysql-deployment.yaml
+  - influxdb.yaml
+  - wordpress-deployment.yaml
+  - phpmyadmin.yaml
+  - nginx.yaml
+  - grafana.yaml
+  - ftps.yaml
